@@ -1,0 +1,4 @@
+,Avg Wait (s),Wait Std,Max Queue (cars),Throughput (cars/hr),Cars Left Waiting
+Fixed-Time,16.51,0.68,24.3,1748.7,8.35
+Optimized Fixed,14.34,0.83,24.0,1749.15,7.9
+Smart Adaptive,11.6,0.84,21.7,1753.3,3.75
